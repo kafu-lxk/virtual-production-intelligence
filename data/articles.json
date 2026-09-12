@@ -1,0 +1,52 @@
+[
+  {
+    "title": "In-Camera VFX Overview",
+    "date": "2026-09-12",
+    "country": "USA",
+    "source": "Epic Games",
+    "categories": [
+      "Virtual Production",
+      "In-Camera VFX",
+      "LED Volume"
+    ],
+    "technologies": [
+      "Unreal Engine",
+      "Real-time Rendering"
+    ],
+    "summary": "ICVFXで利用されるLED、リアルタイムレンダリング、カメラトラッキングなどの主要技術を調査するための基礎情報。",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/in-camera-vfx-overview-in-unreal-engine",
+    "collected_at": "2026-09-12T00:00:00+00:00"
+  },
+  {
+    "title": "Virtual Production research example",
+    "date": "2026-09-11",
+    "country": "UK",
+    "source": "Example source",
+    "categories": [
+      "Virtual Production",
+      "Screen Process"
+    ],
+    "technologies": [
+      "LED Volume"
+    ],
+    "summary": "世界のバーチャルプロダクション事例を整理するためのサンプルデータです。実運用では収集エンジンが公開情報を追加します。",
+    "url": "https://example.com",
+    "collected_at": "2026-09-12T00:00:00+00:00"
+  },
+  {
+    "title": "Camera Tracking and Virtual Production",
+    "date": "2026-09-10",
+    "country": "Japan",
+    "source": "Example source",
+    "categories": [
+      "Virtual Production",
+      "Camera Tracking"
+    ],
+    "technologies": [
+      "Camera Tracking"
+    ],
+    "summary": "カメラトラッキングとリアルタイム環境を組み合わせた制作ワークフローを調査するためのサンプルです。",
+    "url": "https://example.com",
+    "collected_at": "2026-09-12T00:00:00+00:00"
+  }
+]

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Virtual Production Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">VIRTUAL PRODUCTION <span>INTELLIGENCE</span></div>
+  <div class="sub">Worldwide research dashboard · Free RSS collection</div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>Virtual Production Database</h1>
+    <p>Virtual Production / In-Camera VFX / Screen Process の世界の公開情報を検索・収集</p>
+    <input id="search" type="search" placeholder="例：LED Volume / Unreal Engine / Camera Tracking">
+  </section>
+
+  <section class="layout">
+    <aside class="filters">
+      <h3>Category</h3>
+      <label><input type="checkbox" value="Virtual Production" class="cat"> Virtual Production</label>
+      <label><input type="checkbox" value="In-Camera VFX" class="cat"> In-Camera VFX</label>
+      <label><input type="checkbox" value="Screen Process" class="cat"> Screen Process</label>
+      <label><input type="checkbox" value="LED Volume" class="cat"> LED Volume</label>
+      <label><input type="checkbox" value="Camera Tracking" class="cat"> Camera Tracking</label>
+      <label><input type="checkbox" value="Real-time Rendering" class="cat"> Real-time Rendering</label>
+
+      <h3>Region</h3>
+      <label><input type="checkbox" value="Japan" class="region"> Japan</label>
+      <label><input type="checkbox" value="USA" class="region"> USA</label>
+      <label><input type="checkbox" value="UK" class="region"> UK</label>
+      <label><input type="checkbox" value="Europe" class="region"> Europe</label>
+      <label><input type="checkbox" value="China" class="region"> China</label>
+      <label><input type="checkbox" value="Korea" class="region"> Korea</label>
+      <label><input type="checkbox" value="Australia" class="region"> Australia</label>
+
+      <button id="clear">フィルターをリセット</button><p class="note">自動収集はcollector.pyから実行します。</p>
+    </aside>
+
+    <section class="results">
+      <div class="resultbar"><strong id="count">0</strong> results <span>・最新情報</span></div>
+      <div id="articles"></div>
+    </section>
+  </section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

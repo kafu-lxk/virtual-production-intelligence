@@ -1,0 +1,80 @@
+{
+  "keywords": [
+    "virtual production",
+    "in-camera VFX",
+    "ICVFX",
+    "screen process",
+    "LED volume",
+    "LED wall",
+    "XR stage",
+    "extended reality stage",
+    "camera tracking",
+    "real-time rendering",
+    "virtual set",
+    "virtual studio",
+    "nDisplay",
+    "Unreal Engine virtual production",
+    "LED volume film",
+    "virtual production stage"
+  ],
+  "google_news_queries": {
+    "en": [
+      "\"virtual production\"",
+      "\"in-camera VFX\"",
+      "ICVFX",
+      "\"LED volume\"",
+      "\"LED wall\" virtual production",
+      "\"camera tracking\" virtual production",
+      "\"XR stage\" virtual production",
+      "\"screen process\" filmmaking"
+    ],
+    "ja": [
+      "バーチャルプロダクション",
+      "インカメラVFX",
+      "ICVFX",
+      "LEDボリューム",
+      "LEDウォール",
+      "スクリーンプロセス"
+    ],
+    "zh": [
+      "虚拟制片",
+      "虚拟制作",
+      "摄影机内视觉特效",
+      "LED虚拟拍摄"
+    ],
+    "ko": [
+      "버추얼 프로덕션",
+      "인카메라 VFX",
+      "LED 볼륨",
+      "가상 제작"
+    ],
+    "fr": [
+      "production virtuelle",
+      "VFX dans la caméra",
+      "volume LED"
+    ],
+    "de": [
+      "virtuelle Produktion",
+      "In-Camera VFX",
+      "LED Volume"
+    ],
+    "es": [
+      "producción virtual",
+      "VFX en cámara",
+      "LED Volume"
+    ]
+  },
+  "direct_feeds": [
+    {
+      "name": "L.A. Castle Studios",
+      "url": "https://www.lacastlestudios.com/blog/rss.xml",
+      "country": "USA"
+    },
+    {
+      "name": "Digital Production",
+      "url": "https://digitalproduction.com/feed/",
+      "country": "Europe"
+    }
+  ],
+  "policy": "Prefer RSS/Atom and public feeds. Respect robots.txt, terms of service, rate limits and source licenses. Google News RSS is used only as a public feed index; each item links to its source."
+}
