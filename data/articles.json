@@ -1,5 +1,924 @@
 [
   {
+    "title": "Osmia VP: A low-cost, field-deployable virtual production system for in-camera VFX - IBC.org",
+    "date": "Sun, 13 Sep 2026 01:01:20 GMT",
+    "country": "Worldwide",
+    "source": "IBC.org",
+    "categories": [
+      "Virtual Production",
+      "In-Camera VFX"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0daYXdjTERWVHBhRXF5M0NYLWZrdEVuVnBWVWZMdlNiUTVVdXRhVlFEcUpjQ0M3UTVoTEdSRzF4ZUxqd3FnbGVpWU5wUzdYNGZyQk9fTUJDeUZpTmpQUzVjRDZZRTJfcVh6R2RXSEZJQXRwSmpsMTlGc1NiWEFmX0hnMWJQWGw0NGhlc0xNTkpZRE1GUlROUzFPcnNlRzJ4b09Cb3hSS0xuck45dzZtLWhLejZpVDFfMDBma3Q5dGNUTEhQV2hKRGZJSkN5M3NTYUxWeg?oc=5",
+    "collected_at": "2026-09-13T21:07:41.337890+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "MediaCity delivered 54 bespoke virtual environments for BBC’s World Cup coverage - TVBEurope",
+    "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "TVBEurope",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "RED"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXBZajk2RGFVOGtsZE9tRkZ5YUdzOFdyU3pxYnpkWHJWbEZHVGhYcmV6ZE9sOFVmQUg1c0NYbUFwT25QQS13akNTNG9IZVFsUW02VVJzdS1oMjMxSEFzWGlaV2gtQW83UXVhdEJFc3pMb1NTNzV4TUo3MXJwNjlPWUFzX1RDbGt1QnRORXo5VWFwZUR1cDF4aEdiYVAtZE1pTVN3ZzRPWTlvYWplWGltZm9BSmM2UVM1WDJnUjhJTlA5dw?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338044+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Osmia VP: Developing a low-cost virtual production system - BBC",
+    "date": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "BBC",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUUk2am9nREFtTlZyUmgxV1VyelV0Qm9WQk1XOEZYZktNZlVuMmZDQWlxOXhZbzUtcjhBSXRfanBVdHZZNHA3SXZzaWJIV2lCOUtidkhXUEV3d1hTSkxNLU9MR21HeGpCRVpDYQ?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338089+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Brompton processing powers LAMDA’s professional-grade virtual production studio - British Cinematographer",
+    "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "British Cinematographer",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "Brompton"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0c0cHJqSTZ4TUNCNG1TcElTUXRWbF9RQlFmTnhadlhRamo3Rk1WMERBNzdOQTdxbjV6TmROWlNweUUyUkFvWFVzZ1ctbG56Qk5LTGp1NlBUa3pDd19laV9HZXhEVmswekNzRHJZWS01ZmV3WVBzTnZweWJLYUw2cXJSVkpaRmpPWDkzdWpZWVI4OFVMU1g2bzBPdmY?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338135+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "A New Node-Based AI Compositor is Here for Your VFX and Virtual Production Pipelines - No Film School",
+    "date": "Tue, 19 May 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "No Film School",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtS25qSWo5NU9iQ1VxUmVmX1Q0V3pOSWxxUy1qZEVHNzZ3YW5MQ3FubFdoLWJxOUpHMm5OelVNM3Q4VXBBOUVGLTdCZ0RWakhOVjJjZXVfYlZQclVaS0N1MmJR?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338179+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Anthony LaMolinara: 'China is way ahead' in AI and virtual production - news.cgtn.com",
+    "date": "Thu, 23 Apr 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "news.cgtn.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzlrWGRtQ19KUWF0eThQZ2lNQXI1dmg2RVZHMjBMSEtFUkhyMldjaWRTa3lZbUJ3TTdCZVpsVXh4aWV4dlpNT0N5dzhDYzcxZnpBc1lSYnNNTVR2Y1JvbnZVOHBPNXlUU1U1dEM5aVFLY3U5NHNhdFF3R21WaU9XWWluQmpjUi04U0pZN0V2Y0o0SlNuZG5OOERidmJWSTlZZW9hSDRkOThucVhiTkluQ1VYYjJ6TXNSRk8tNjRyaV8?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338216+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Virtual production’s green gains marked on World Earth Day - AV Magazine",
+    "date": "Wed, 22 Apr 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "AV Magazine",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODZLQ0ZuT3hNY3FUMlUwRHZGNVFwc3d4UXVlWXZRTklXcDhGYW5QV3RaN25DaklfQkJpOGJER093RnVqWTZ1V2swQ3c2T3g4eUNjSlk4eF9MN3dLWG0xUllZSE04R3pGMGxiQjZQLTR5TjFwMmlEUWZhSmhMUE1xTVduU1I4T2RjNkxGNzNsbEtPZXE4TDlaeGdIS0VDOVRtNVBpWEhfakdlVmxuelFLQlBBYVlzVDZhTmdB?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338257+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "World Cup Madness: Why Virtual Production Is the Only Way to Win the Last-Minute Ad Race - Little Black Book | LBBOnline",
+    "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Little Black Book | LBBOnline",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tb1MtRlpHaExsQS13RHpCeDhiZjJTSmhoQzNpcm80RTRqLWt4VElfOGdDSEd2VUUtZ0RXWW9nQjB5V2tIMndCQlNpekZNM1NpZzRaTnppWERvYTJvNmtKVjFyTExrZw?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338297+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Creatives Complete Wales’ First Virtual Production Fellowship - Business News Wales",
+    "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Business News Wales",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHd4UHVoTXNMcEFuaTBmVDkzVUNvQjBNblU4MUtScy1yallxbzZrRXAtQWVGRVBaWWEzb3lqTl9odHN6UGI1c3NURkRqRXF1NnRsOWxoaWVsWV9OVEVpQmhZc29TdFE2ODZneGRCVEZ2NlotRWxLeXc5aTdYRnZhQTNNTEcyS3dmS1RIZEFpM3dnTGhpMEE?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338336+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "AI in Filmmaking: Innovative Dreams Transforms Prod… - startuphub.ai",
+    "date": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "startuphub.ai",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGVfZzBuWjR4VmVKTm5JT2t3aEM3RFQ5bnpGODdIYmsxTmtlYkpIeWRSNkhzVThLUC1fSWJreFlUVFlwREE1SkZsMm5FVTVaQzhsSExuQzBId3pLb3VKRHMxMTNBbTFyZkJpaWJqamtDSWZaTVQtTjQ2aS1ZeG9Hc2NINEVzRTVKNmFrRkZQVUhDc3hyZ2RBaWpYY3FRMXZMdTdUamVFVmxlb0twdng1VkU3eW95azBiUkEw?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338374+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Chrysaor Studios open Queensland's only permanent open-access virtual production studio to the screen industry - thecurb.com.au",
+    "date": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "thecurb.com.au",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa2N1bUIzWXoxYmNIbXZoOWQzalMwdWxxNGlmenFSN0NPSTlhQ1prbWpxNGIyYmtnMTB2NlJFc0paYlNOdWpVaXhVN2NpcHFhbHdSM1d5ejRnZFV5bGh1MFBIdzBWQUswOVJQd0JiVkpyU2ZEUUZjdklfSUNiNXlPM1l5Y0NacW4zZE9OM2NaVFVIT09yNEw2YXl0bnpabVR1NDZyQzVhaFlaQk1QQmdQbHJWSkxmbGt0R2t3ejlWcExpajZ0WmsyZGRXTTU5MG53MGtpSnVyd0QzMlFIbDNzMW5JczZOb00?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338415+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "MediaCity celebrates delivery of groundbreaking virtual production acting as nerve-centre for BBC’s World Cup coverage - Media City UK",
+    "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Media City UK",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDVkT1MybGFOTW1qTGhTSl9vb08wc05UN2FSQ1AweFlmRnNyMjV0UnlJQ3RIWXBOY1BFZWplRmE1bHdxVWc4MWo0WUxQSGJqYThEQndrT01BOXM1WXNoNFJRWEt4UkNwbkdZYi14TjRPMTVnMG1Cd3h6M2Zya3RDTHJoTXJjUEI3UEhxR1JHeFlHTnliZ0s4VWoxLVNMdGwtd3E5b0czUUUtbHMtYy10M1JaYTBrWHlqeXFYZXRTRzViMC15NWNVZng4ZVc4cHJMMi1NcmdxOUlqTVFzZ0hjUDdKcnZjdnJ5LWJvejlB?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338463+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Sony Pictures to Shutter VFX Firm Pixomondo In Production Shift - The Hollywood Reporter",
+    "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "The Hollywood Reporter",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "Sony"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1EwTDhFcWtwSUQ5MmhYYkFveHNXdmdLdlBTOVVtSHZQcjAzcmhNR1A3aW52dVdFQ2UwRkRaVmtJa0YxUkVJV3lYYkJ3SXZ2NDV5ZFc4TmhKOHY0UVRhVEFVYnFwdko3NDhlVWFHNTJxRThoa1RQVTdYRlRPb04wck41bDE2Njlta1ZSY0Z2Vm45ODRmTGxha1R5dW9wc2h0czF0VQ?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338499+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "MediaCity celebrates virtual production capabilities after World Cup coverage - Insider Media Ltd",
+    "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Insider Media Ltd",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0lqRHBmNlFIR05PSmRLc0VpTDUtWTN0ZnA5N1BXemJVQzNwNWpWOEJwWlZXRWp2UlBBNXV0WUp2bkhWeGdGbnlwNWFkNmtfU2FaLWVLb3pDUTA4NzkzeGpNaGFDalNJWG1xTUdjNEhqNlNOcjNyaU1IRGlXZ1JaXzBCdEVZcVhFWElGTi1TbkNvbDgwMFc2Z0VBQm5HRmFxeXFteDRhWUhGaFZ4OHVXZVJxNTl3ZVlSdFBHQV9Xdw?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338533+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "Hot Take: How China's virtual production is scaling bigger ideas - news.cgtn.com",
+    "date": "Sun, 29 Mar 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "news.cgtn.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1JDTVZvWW5qUVlQeVdpVTk0Yzc0RE9XLXprLUE1c25ITTF0a2JuYnhPZjZ1NkliYWhNWFRkbzRFdnF2cTN1RDZGSVBvSUdpV1RaN3hJMGRQWkJYZlRHVVFjVXVfa29iWUUzZUJkREZEVGFoQUE3OG1PZWJyaFFXYUtxeUQyX1M3cHg5NUVwLXV4b1l1bUQ2ZEswVnVlUlpBOFpSZW5iRGdBdlMyQWdESUlKMFNqVDYwMm1PNQ?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338567+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "North Wales entrepreneur launches region’s first virtual production studio - Wales 247",
+    "date": "Mon, 27 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Wales 247",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFBCdnJjTS1sWWpyZ09XSU1aNkxsZkhJcGxVN2dHMHRXbW8xbjA4RFZpNllybHRkQ0VXNm92OXlNOEY2TExVenZzWHNhaDMzUFMzSzNmdzdKZ2ctckZWcloxVzIxMndpUFFqZEhjeHJNSWNZcGd4dUQzVHItaTd4Q3g1R09sN0pRVWxqTnNobTJDMFV1VDJlZURGLVg5VTA4U3c?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338606+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "North Wales’ first virtual production studio secures funding for expansion - Insider Media Ltd",
+    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Insider Media Ltd",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTZRZk5RTG5EUmlTV3dCZEZHRnVfLVN0UHlwREFmR3p5N2pSXzFxZXhkOGdUWnZLVVRQUzdRSDVSX2o0NVVhbUdhTllMVnp2QjJqNnJnd2Q4T0hHWExVRUNNNjR5UW9HRHlXTm5Jb0VYNUt5Ym5UUUpRM2xSRzV1SkdMVkc2d0RCdnJwYXFXckstWWtSTDVhMmxvakZGZ0gxX3RiSlNueVU4RFhVTlNOc053bw?oc=5",
+    "collected_at": "2026-09-13T21:07:41.338646+00:00",
+    "search_keyword": "virtual production"
+  },
+  {
+    "title": "On The Walls: Virtual Production for Series Shooting - The ASC",
+    "date": "Fri, 16 Jul 2021 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "The ASC",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xSE50ekhFSDdZVXJWUHRySWdQN2FfMHg0cnBtOGUxaGxYT3ZMOXdNMFJCX0RKQzhaWDNJR1Fxb1VXZXFtOG9DMzE0VDhUYnRxWEE?oc=5",
+    "collected_at": "2026-09-13T21:07:41.750985+00:00",
+    "search_keyword": "in-camera VFX"
+  },
+  {
+    "title": "SEA studios are replacing green screens with video game engines, and results are amazing - Mashable SEA",
+    "date": "Fri, 20 May 2022 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Mashable SEA",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnloR1F0Q3kxUElCTy1NYl9ZeHVhTzQxZzQ2WGowQzFmRUtham1aUHM0MFZRMzMteHV1TUhrbjZENVFLUDJmdGIySGVkeFBHWmZyYThnaTB1NmczQjFTa2dINXF2SXgwV0J1OV9MOUFPWXlsTmNtMHhLaU5ud3BxcGdZeEkyVlRQNUVqZWJyeDRFOFA0V09sM1NWZUl3bmRWY1BSZml2V0xQVThHS2JVMkhoYVR1VTlFZF9GR1Z6U2U?oc=5",
+    "collected_at": "2026-09-13T21:07:42.045855+00:00",
+    "search_keyword": "ICVFX"
+  },
+  {
+    "title": "[Interview] How Samsung OLED TV Achieved Pantone® Validated ArtfulColor Certification - news.samsung.com",
+    "date": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "news.samsung.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWhDUXhQYnp6VDlpdkNsdHVqQ0RSOWJZYU53NGtZM1R6aUNBVWpzSkRhRVNVRW9KRllfb2hMZjhrN0FnSGM2VzZ2aHV6ckJpWHV5UERoMXBIVVNHaVdhcmt6dnZZaUJpWEoyZ3l6cnlrc3EzeWJSMUkzMW5qX1pZLTcxQ1BZMlA1b2Fta1JvRFVkbGhoOWlEaXJoR1daTzVUUDhUbGNkV3p5MVNGOFl6aFNQSmE?oc=5",
+    "collected_at": "2026-09-13T21:07:42.605818+00:00",
+    "search_keyword": "screen process"
+  },
+  {
+    "title": "Bob Marley: One Love Star Kingsley Ben-Adir On His Process & Working With Lashana Lynch - ScreenRant",
+    "date": "Wed, 07 Feb 2024 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "ScreenRant",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91V3NQQUt3Yl9XY1cyNzFNMlo2aFNkQVBBNkF6R3QzR043NUx4OXM1OE5DenlIeVZSWG1MOGRJUWx2MlBrNlNSeGJpYlJHOUZvLVN3WC1JdE50WDhqV0h3anlpdm44b3ZQMzZCdzkwbUxodzhnVENjZkVKMA?oc=5",
+    "collected_at": "2026-09-13T21:07:42.605941+00:00",
+    "search_keyword": "screen process"
+  },
+  {
+    "title": "Binance led Q1 crypto derivatives as Hyperliquid cracked top 10: CoinGlass - TradingView",
+    "date": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "TradingView",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1NsT1dRbC1LbTlMS2ExUlZpa1dlQVVablFaaHV6SV84Tkp5WFBMNENfUm5jc0VvSHF6SmtOTUI0ckJUN3pBa2w5QnpuMXV2TkE4ZTlfUHlLY0NRWEpCMmd5Q2luRGRaUG9LQjdhUVhtc2RsdGtLWWF1dzBGU19XRTBGWmxGN2RmVm1CeFhrMFhNdVdXc0JGd203VHFCd1FJRmMxZ1JQWWR3NkY1X2s5N2FTc096YVZjbDJnVDI1X193Z19tcVNBVjc4aTg0SExyQzFr?oc=5",
+    "collected_at": "2026-09-13T21:07:43.099500+00:00",
+    "search_keyword": "LED volume"
+  },
+  {
+    "title": "Nestle India looks for volume-led growth despite price volatility amid geopolitical uncertainties - ET Manufacturing",
+    "date": "Sun, 03 May 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "ET Manufacturing",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMlJKMVo1cW16bDhVR2JRcDVXblQ0aDFJZ2RaSWxRYVcxejJ1RENlTzBLd2xCcm1adzRoOXctcTVjNURHTjhQRTNtTmpDWHAwd1Z1YzlicnViVWNIM0tLLWFTdjVxVVZIS3dneER3MHhPdW5ZVFhsY2xlNzRTMDZRUlRMRW9XdlM4LU5ycHhMbTdiajFKU0U1Z0tET3hYX09EbHl2TGdUUDhYSWwtcjhMclFCdlI1MENOeElUSmV3Rmh3NFQxaFBPNXN1MUhNcnAwNjFyQ210dUJMOUdXYTRfbGhSdldHMXBKRVNZN21JQjFLaGtidjFYTnc1VFHSAYICQVVfeXFMT09wcHBFanRnd2xmNlFpbG1tazRSeVQ4aDRaMnBqS3hQcDhRQ19SNjliSFE5Qy02Q0Z0ZFZHbkM4eWd4WmdEYjVFSVBNTnBKSFE2eXZ3UzdFZ2NQSXBocGhnQ3h3VWRRN2ZCZmktY09tMVRWQUxkU3h0aDNEdi1kSk5kd0hVc0hZcVNZWHhSTzJxX2puQ1FLaGRLUVZEU0NEZGg4cUJzVnNob0c0UlZwYkNGNWp0UlFjS2Ryc3RMYlVfdUhibVBZaWo1ZVVPWExLeHRwMmFxbWZfRnlfQlBHQzRzenJCWHAxTWhrQUJtUXI4Mnh2bnlvTjVPYVB2cXpGUUhR?oc=5",
+    "collected_at": "2026-09-13T21:07:43.099608+00:00",
+    "search_keyword": "LED volume"
+  },
+  {
+    "title": "Apple Store Genius Bar & pickup counter revamp effort accelerating - AppleInsider",
+    "date": "Sun, 13 Sep 2026 14:53:54 GMT",
+    "country": "Worldwide",
+    "source": "AppleInsider",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDJIQlN6Wkx2cXhMcFh5Q25YY1FBbTMxYlo4NVMxYVk0UFNMSi1FTG53WnJHNUxVYTRXbDFkZnRRR1BJc0pIRlUzMlFoSzBmeUpNc0w3NXFQSVloMDZONDR3Qll5RFN1NFZVcnBDclBSa09qUzBZanRmVWhzcUVMbGpPQzFuTUR2alFqVS1fR1l3a2xYV0xMNm50eHlKNlJjenVWY3dZS3dGeFU?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628007+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "Apple Store revamp: more Genius Bars, fewer video walls - tbreak.com",
+    "date": "Sun, 13 Sep 2026 19:18:00 GMT",
+    "country": "Worldwide",
+    "source": "tbreak.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INktLOGZhWnZCeDF6U1BVOW1LS0RUcTJOeFltUWtjWFZQSTRHYmJ6QTdZMWlaeUR4RGhGN3VZNTBrbkNjdVhPTjdjYWpsN0EtVC01ZEN3SEJwUTVPdUxVNkJKSlQxMHlxS0hZTkFZTQ?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628079+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "Vectorworks Takes Best Of Show At ISE 2026 For LED Video Wall Tool - Live Design Online",
+    "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Live Design Online",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2NPTjlHZ3FCaUdYdk5nMlgzMzVTbVVLNU9RNnQzeHVLUnBpd1RWV3BaeDdFOE1xMHByRXc2RHVFNTJUdG5mcXVOTndxZmdQZFZQUWhReWlQVU9QVGNlSndwMGRkVjJRdEw4aVBvdmdoTDBDTzJXVzJOUEdwRG43eFZBaWp6ZmRRS1ZkRjl4VjhGcENQTWRPZW53?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628119+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "Now Showing: The Integration Guide to Video Walls - AVNetwork",
+    "date": "Thu, 19 Mar 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "AVNetwork",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUlkTjRpMllSak5tVVVuQVllWWNHMVd4Y0o5bndwajJlcmJra1hibWhFWmloWUFxRXI0anFyeHlibjFIR2x2ZEhYVjR5Zk04RmJra1Q4TzAxNmFmWHpDeG5Fb3l0eUlXRzFuV2JEU056bFpuQzlmVEVNbU5SX0RVMGhtWU5TdjNkWEZDU0NNVXEzS2xNTC1Xa1hxNA?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628184+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "Columbia County Emergency Operations Center to get new video wall - The Augusta Press",
+    "date": "Fri, 13 Feb 2026 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "The Augusta Press",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1VDZ1lJSFpxZURlVHhldG5NVTRXMVV6NzBqVjVpb08tcTVBRUQwa3hmMFp5V2oyQkxFUC1RV2RiQmQtQ2JFU21zTGFma1NxbW9OQlZiN2ZmR2gyZlpwTV9VTHlaUlVjM2RDNFNHbTl3eW5vLWNmNWpxVmdYdW5ycUNQTzlKRHVpXzE5WmpvWTQ4RTdzdXhJTlZ3?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628248+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "InfoComm 2025: Yaham Showcases M1 Series MIP P0.93 Indoor Fine‑Pitch LED Video Wall for 4K - rAVe [PUBS]",
+    "date": "Thu, 12 Feb 2026 09:54:20 GMT",
+    "country": "Worldwide",
+    "source": "rAVe [PUBS]",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb09Mcks4V0NSLUN6S1g1UmFhTUhfYkthMkhRVlFFUTZuNHBqa2Rjb0o1R2wwdTFzMGJtLU9jWlQ0WUszVzJ3SDIyV2VjNVR4YUVsU1RESTNUVTRLV1hzdTAxbEJKNElYR2pibHFRdDFxQlNvcV9LOXhsdHZ6Z1dwejJWaldYSmRKX2hITkhQVTJNcG9feFlxNUpnNkxlcUExanhvTGRSM1VMLWdxbXN5UzcyX2VKYTVnQ2QtSmpFMmY4ZGpwczRmUEhWaTQ?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628297+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "New Extron XTP WindoWall Gives Video Wall Capabilities to XTP Systems - rAVe [PUBS]",
+    "date": "Sat, 14 Feb 2026 14:56:04 GMT",
+    "country": "Worldwide",
+    "source": "rAVe [PUBS]",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzI4c2piWHFXcUlwcEpadnlpZ21SSjZsWU8xdEZWaGR0eHdrR184el9yd1RwTFN6OGNqb01Rc3dRMDI4Z2xKal9IVzQ1b1J0dE0zYXlhN0pjRlVVb1ZSMFdpbEJrU2lxWF96ZXFPX3RTU0ZqWDRGM0szenpXVTk5U1pybVYzR3hFS1EtSGQ2b0o3dXVQZ0HSAZsBQVVfeXFMUFNGRUQ5ODBMb2cxbnR4UG8wU1oycVY4SDUtNktXWk5EcTZxOERDMFE4cjl2X3kxb3RPYVl5dThEZUNTaDdvN2kxV3h0V2dUdnMyTEgtcHBvaVVYZXNxZTNwWWY5TlVFX1NxbGZiY1F5ckwxSlNEWW9HVVdncThlQk1WWGlMOXg5d3ZxQXdQVUV1cFdvT2FHa2pCNVU?oc=5",
+    "collected_at": "2026-09-13T21:07:43.628334+00:00",
+    "search_keyword": "LED wall"
+  },
+  {
+    "title": "‘The X Can Mean Anything’: How XR Stages Are Disrupting Post-Production - MovieMaker Magazine",
+    "date": "Wed, 21 Sep 2022 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "MovieMaker Magazine",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV29hT292QlNvdE1tZ2Nld19QT0VIWFFJZ19XbHotVFFTTmpuZHNOZ0lFbFlDMkxIcHNaTE9WQzIwaWlET3lXVGZBS2Vnb0ZBdnJHWDNFX0VQVmt2MENCajZqMHlza3VCTjZOTkRVcjl2dFI2clFRZGFtQVdVNDFWOE1Ocw?oc=5",
+    "collected_at": "2026-09-13T21:07:44.181661+00:00",
+    "search_keyword": "XR stage"
+  },
+  {
+    "title": "SCAD Atlanta debuts game-changing, state-of-the art extended reality stage - AJC.com",
+    "date": "Wed, 28 Sep 2022 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "AJC.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzhFbjcwNzE1NVhPNGUxZURBNVVXekgxbzJnbTBCMWlRdGFIUGctM2lPWVZVdk5CaTRMV3pfeDFQNXYwRUF1V2tUUkRlbmRVbkRKYXo2bXZCWGVIXzRHWTl6OVFQa2ljQm5pVHQ4c0xjOExBSVhNRGtHS0Judm1KSkpISTJFWVkwbHJtdHJyWGJ4SFVzSVVBR1pBb0xGRjI1bnBYY0tpbjFvZ25JZTVkckRB?oc=5",
+    "collected_at": "2026-09-13T21:07:44.181738+00:00",
+    "search_keyword": "XR stage"
+  },
+  {
+    "title": "Robots, Unreal Engine, and cutting edge LED – xR leaps forward in Shanghai - CX Magazine",
+    "date": "Thu, 14 Jul 2022 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "CX Magazine",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [
+      "Unreal Engine"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2VGMkh0VWd6d0NTTDkyZEtOa3NSNGFiZGxERi1JbEJPMHhwZnZCMnYxeVB5YWJXQ1BWNzNvcG9Lc2x6XzFzaXJqTF9WSlphRHEyYUNKY0FlSXpLT0FOYXY4WGFhWjhfd0Rpa0tFQmlSVkVRY2NNQ0NEOFNUWmNCd2RTcDJibG1TNS1vQlRBZVZzcU1sc2MxNWMwMkhlNUxjdWc?oc=5",
+    "collected_at": "2026-09-13T21:07:44.181796+00:00",
+    "search_keyword": "XR stage"
+  },
+  {
+    "title": "From a studio in Dunedin to sports screens worldwide: behind the scenes at Virtual Eye - ODT",
+    "date": "Fri, 11 Sep 2026 17:34:29 GMT",
+    "country": "Worldwide",
+    "source": "ODT",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnhPd18yVGx5a2U3eUhEMjlZNW5HZDBtOENFZkpGaUd0eUhJT09aT20xZFBIeFdUbTE1UTBkOFVUaUQ1ZWJfY3NZa3pSaVBGOGt3R3VGY0EwZVFCTlMtV3hmQVJyaUl1cTVGWUV5LTZHVm9PMnBPUlZQMUdpX3pvLTlIVEZwemI0aU9LeXlnemdHMVhwN01xMi1ybVVhNFFXNXlZbTVFcFF6Z29TX0FQaVhTVXJmSkt0OFBLT0tpSjhHQzQ?oc=5",
+    "collected_at": "2026-09-13T21:07:44.762916+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Steinberg 30 years Of VST, Halion and Freebees - Sonicstate",
+    "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Sonicstate",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdZaEd2YTZCUS1IWlEwb1BWWUJZMnVhaC1naGZmMF9kbGQ5MnpWcnNERkZmSlBibFlER3hwSlVsaXB3Q2dXZFNiYmZnakxTVDJsTTJvMDJFS0lQUDUzWVE5VTRzYl9Oak9IZlZ3UDFrYk1sX3M5MjRMaDR2S1VnNVhUNUNSVGhKa1FNSWg2MUJsYVc4SzAxRw?oc=5",
+    "collected_at": "2026-09-13T21:07:44.762975+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Actor and K Sera Sera Virtual Studio Director Vikrant Anand Joins Actress Zareen Khan at Glittering X Blue Jeans Brand Launch - Ahmedabad Mirror",
+    "date": "Fri, 24 Jul 2026 15:26:51 GMT",
+    "country": "Worldwide",
+    "source": "Ahmedabad Mirror",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTy1GN1ZraGVpMUpuYk1sc19KdUpTQ3Vob0pCT054bFp5SGdmdU5QMzZfYXBrR1k0d2dvNzVneXEyQnFBVFBwR0pZaHdRVTc5THZQZF9JNEpmSnpCTV9SbVBFZVFtY1ptWnlhN0IyZG1BLVhWcFVDMzdvbGx0c0xQektORjZ6cXRUMXlZTTJ5clc2SzFmTkRtOU9Md21ObmVXbVpoV09QS1huczNabFV5ckdhZV95WWFjNkZDcUp3OXZDYjdzQUFXUkxfZzBiYzc2d1pyNlpMNW9BbnBEYjA5SkRiZWJyNlNVM3U3UzVFMDF4UmF4TktlTTc1VmR0TVZl?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763037+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "ITV discover big problem with bank-breaking World Cup studio as everyone says same thing - Wales Online",
+    "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Wales Online",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWZfdVAwTFFEdlFRVjhyUm05dDM4UHNWR1pEYlVhV2pTOS1wVFhkWnRUSklUT1FucG5OdlUxS2ZPdEZSeXh4WW5adGgzU09RZjJKUUlaSHI0QUJYSlhZekdkUWNrb2gwVWVNOXhRTkliT2dMRVFsYVlpcjRhYlNkVWQ4cE9seHhBdkdoTVpWemRvUTZkeVRjNXptUXhfQdIBowFBVV95cUxOdkJZT05IZlZaUExSRXJCUWhQdDNSRE1NOURhbFlaMXJCS1M1ZkxHa0c3UllQVkV1M205a3dTSzk0TGtkWDdmOHBrWkxOTTZlMEpOa3NVS3lhcFdEUnNWN0hEZ1JweXpFWkFBeVBpYTduUnJfZEtiTHlaa0RiZms0bUhjNzVjQi1MbTVEQl9DUDZESFE3SkU3RC1JZDZmUEw0NGdR?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763077+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Athletics Partners With Vu Technologies to Unveil Cutting Edge Virtual Production Studio - UToledo News",
+    "date": "Wed, 17 Jan 2024 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "UToledo News",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUhaMDlIal9yNEFkNjltcUtacTJLRmZKNTVBb0ZucTdIWENNRlM5bERQX3ppQXpmbHBRVGVSeWdjUDBhUnhScTBWNG0tbFJZS0tTRUZjUjhfTXpMbTg5U2RVNjB0Z1dKbzh5MnpnX0h1X2lPUXpTM2J6eVE5YllXRG05OWEyNFp3ZzdmQ0FUcjRvTU5fdURaS2xvcmRSMmkwLWV6ZXhJSU9fVXdtdVVUU1NsdHVXWV8zSVZvRjctbTBjb24zbVlHTExXMUFJZmc?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763156+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Top 10 AI Extensions for Visual Studio Code - Visual Studio Magazine",
+    "date": "Wed, 08 Mar 2023 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Visual Studio Magazine",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTlBTVlZ5T2FvekM0clBsRlZOWnNQaERKLTlCTElncmhkM3FGdWZtOGo2a0V3VWZxcFNtcEg3aEdJVVE2cktYQXdBbXBYZzIyU1hURnIydTMxSEtTVW9DNkVKcm5BSS1YbVVGa1lSZkFTbzVteGxYM0ZLYXVVeUU?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763204+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": ".NET 7 Support Just Ended, Here's How to Upgrade to .NET 8 - Visual Studio Magazine",
+    "date": "Fri, 17 May 2024 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Visual Studio Magazine",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2t1Rl9PU1JFWkhiMERFRGJ1NHFwajlyYUNOdmdCdlcwMWxKb1RNUVdEYXFZTVVCZXJFcWtfa0MzX2dLWHRORGxoaXdyZkJmN0ExQi11aXFzOFhCblo1Y0gtc3FWNmNQUFZWWTRuVUdtQk1LaWRpdndRdFo0clhod3RjcV8?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763237+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "New virtual film studio opens in northern Albuquerque - KRQE",
+    "date": "Fri, 06 Dec 2024 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "KRQE",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnRFRkNkdjZLOWRCSFljVHV0d19WUzNtME94QU1Tak9hODdUcXhnQWx2akhoUEFLTmw5NnRpNU13SF9abG9jSkxxbVdoa011cVJOWk5mcV9XVjQydUgwOTRFZmt4b2tyajZSenBYcTZNSEhQLWY5NDFGbDBXOHRYNU9MdlVRcEc0ZzZ4ZlQ2SkdaNnNvRGt5NlVJUXRXVlXSAaQBQVVfeXFMT3ZqbzlBUG5yYmdHbjQzcExJTS1WaHp4bm5GZG1Ld3hhTFpaZlEzWkZvWEdRTExFYzcydDF3NEpHQThSNmtFM19obzJyT2V2UmloN0p3VWxUb2RFRWxCSFg4OXJnR291LUQxZU9DcW5LMWNqbmtqNFR4VmRuNnZwWHU0LVdWa1VIN0JXVG5oZGV3UnpfbHdYS3ZUT1RHTWFzb1JSUTc?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763266+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "The New Studio Show: How Fox Sports Takes XR and Virtual Production to New Heights - sportsvideo.org",
+    "date": "Fri, 31 Jan 2025 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "sportsvideo.org",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFVzcDhpS2lqdmUwTThmeFRPTzE4TWlDeDF1M3dXOEkwdlg2R1BnMUh3RHlWQngyWlRjY3dUVVV6b01Nc2oydTJSNDVpMndrVXRXaWhTc09ubm1DSWEzcEYwb2tZVWRrTkgycVF5djluZkUtUm9ueWM1QzlHeGVmNjJyVFBjTXlxaHFXY0lzVHNUWFp5RzFyS2VORHM2Y2hTd25qSVhtMnlTTDNMb3FnNmJpcHMyWHVnQmVMRTZfWlM?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763300+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Literally Sit on Your Hands and 5 Other Pro Tips on How to Pull Off an Effective Virtual Studio Visit - Artnet News",
+    "date": "Tue, 24 Mar 2020 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Artnet News",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xeXFSMTZKVGRENUg2Y2VDckhGaEVlUEFjZlduZ0I5U1ZBcFUtNEJHeENGVGRHRjgxWVB3OURpQjItVE0yelk5SFdFeDl2cnZaeXBTbTVhMDVlUlVOdlBoUHQ4UWFyUDV1a1A0aklJaWLSAXhBVV95cUxPOUgwU3FIQWthS2QwNG9pcDhTZHNXNkptT1RyX2NGcU9CUko1RkhKbzBldHpsVnVOSWx6ZndIbWdTSE9CMC03bGMtUk91NGdnbjh0ak1GVXE2a0JtWXI2eHdsTjBpblVCdU5lMHJVMEE5Ql9td1R0WGo?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763337+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "FOX Sports Takes Virtual Production to New Heights With Groundbreaking ‘Basilica of Soccer’ Set for EURO 24, Copa America Coverage - sportsvideo.org",
+    "date": "Fri, 14 Jun 2024 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "sportsvideo.org",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjVhWXZVaVN5Y3dzYlNPVXhZYTZmXzl4a3Q3aGk3MGZRU1VhdGVyc2EwYlc0SWJKQ0gzNDZpeklnUXJXUDR3bncwQm9Ca2tib3dYeE10V0U2OVNJcXNmWDZ4NV9XVXNNRU1OVjNoUWI3M0tmZHFYZ0s2VHEtUWphSjZfWFIySDNHYkRvWndOWmFGWFhjd3duUDFvdDZJdXRhWnRrUGY2QUNJQzF6blZ6dzk3VGpFVnhpakR0Z2FXN1dXeDZfWTh3UWhvemRjOGtJNXNhTnhXVko0RU5hd09Xd18ycmZaY2pxSnZUc3ExbDRseWNfTmtORFRkZw?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763390+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Virtual Studio by Vu receives CGW Silver Edge Award (NAB 2023) - Computer Graphics World",
+    "date": "Wed, 10 May 2023 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Computer Graphics World",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3d0RVZlMHpTcENSOG53cXpoUk9oVFV0aGU5ZklYczZ2di03UUNwSmJVTlJ5blY1ZThnVkJEYnl1M05BSGMzd095Rm1sNjlFdTlYMDlVTWJPZGNjbVdSLTE2bmMzZnBRSTN2WEJpZW12aHkyWm0xVzZxUmxwektVZ25VYkF0U09zaEMxUXlOdFZFRk1mMXFidEJ2SG04bmF6a3pPNkZUWFBYdw?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763424+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Inside Telemundo Deportes' Cutting-Edge Virtual Studio for the Paris 2024 Olympics - nbcuniversal media",
+    "date": "Tue, 20 Aug 2024 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "nbcuniversal media",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWlyMm8wcWE2SWYxa25fT0JqR2hybTRDVWtsVTczUGxMQXl5MU5CbDhLdjV5bnJaWV9KYjZUbVc0ZXZXbUppV1drVEVYUWdleU5rRkdENGFpdGpRRExnWnBEdU0yUHN1OENGMzFIcTkzU0czeGF4cndTeEdwNHFBM0ppX2lDZlhwSEZ4MnA4TTRWQTRDR0ZYNlpqV0NnQnB2UHphRkVBT0JDSG5tci1J?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763459+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Immerse Virtual Studio plug-in review - Audio Media International",
+    "date": "Wed, 14 Apr 2021 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Audio Media International",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeGg2NmN4Wjc3R2hKTXB2RmxYUnpWcWRZN2tuS25MTmozS0g1WDR1dVh5ak1kelNheVYzZmRuS2prUkVReFU2NmFab0NUVVpTNWJpdW9nYU9aMGdUME1ZSE9tZUE3SVJ2VXp6SEs5bjM1OTdnNjdwbV9wMnJyR2s?oc=5",
+    "collected_at": "2026-09-13T21:07:44.763491+00:00",
+    "search_keyword": "virtual studio"
+  },
+  {
+    "title": "Sheriff's investigator charged, accused of using Flock cameras to track ex-girlfriend - WSTM",
+    "date": "Thu, 10 Sep 2026 02:19:36 GMT",
+    "country": "Worldwide",
+    "source": "WSTM",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdGxiaVM4cC10d3J3QnVobzVDbGVXbHM5ZlB0WEhnMEdoZ1I5MGQ2eDRDcmtzVVFsWEpDWkt6dDJ6RlpHalp5VGhaLUprbVlRR25oMGdwX1BfVVkxME0xampVNWtWZ0JqY3B5SVdpbGJaUGtMUGw2RmZvVG9ySEtvbWtVQmFUWmM1S0k5MWppbXRvMllRX19SRS1tR0VIQWpPYUNvZ3FLRUFqMXU0c1hVcDlibXljWHJSMzNjRnZSNFlwcVpGanNEYUk5UlBTRmdtTTc1bWUwNTNTUTZKTlhGek41VndpajI3eDA3aUNDTS15ZWg4ZmNqYUtUN0JuTGQ0NHZjV0FySjJxTG56MVkwWjFUMGMzQUU3Nzk4ZU90ekZUN1BxQUd2WGVxcmU4REZNbmFzelJqb19Ka2phQTd1b0RWY2lsRDFLbHMzbFRZYlJsUjhXTjcyU1IzZW1MM1hhZFBMNU9nekVxdDJVX3YtWjZhVlk2TGs?oc=5",
+    "collected_at": "2026-09-13T21:07:45.341394+00:00",
+    "search_keyword": "camera tracking"
+  },
+  {
+    "title": "Court records: Fired APD officer tracked man who had dated colleague using Flock cameras - KVII",
+    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "KVII",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "RED"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPUmJLSWg4WHVxR1k4M1p0d3k2UXMxMmR0MFFuZ3VpT3Q1UDduVHluTlJaTm14TGNsSnVSWU5IVHAzSzBpUlNFYjBjS2h2dmJ4Y09YSW1iemwtZ0MwWE54SUw0NWFRcXBIWlF0WWtZc2pGRFVQZElWbXVpX0c4a0xvSzJDVkZUS19QVWtuVkhxMDZsa2ZvQ01jbldMdlN0RXViU3M2Q0VRWjV2SkNmblNlbUIwNFN0SVBINkFGMGdJNHc2SFZnVDN6b2lPeEcwZlozY3lrUDdEaG9zN2VYcFVtNkRwVEQ5QzRiSENtR0VxZTItdGc3RjZCaGs0SjIyaFlLcDFuaERBZ1d3aTZfdGxPVDVoVEJaQUp3RHZjSjh5NmxScWE3ZDhOb0Q0UjlMX0dWTzkweWtYbG1pdERvN3JrWmdfUXJPa05WV0hsSkxNaXBGQnpVNjJJME9JY0NFN0JqR2c?oc=5",
+    "collected_at": "2026-09-13T21:07:45.341446+00:00",
+    "search_keyword": "camera tracking"
+  },
+  {
+    "title": "Jefferson Parish deputy uses Flock camera to track ex-fiancee’s vehicle, sheriff says - WAFB",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "WAFB",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlBIZzlueWtsSmwwNkJka0lRbnkwNlFNZk9nUUUzdmV6NWhoa0ZfTzR3MDgya20tcWVOcEc3Y2NHaXhNVzRyN2c2dHFuWjAzVnYwWk9jMy0yMUFsTWhkU241dEZXUGV0UkJaM2s3NXYycUk3ckJZeVFCbkZDSkVRc09jUktvZklnVnNxczlmamgzdzFyWE92MV9IWnhZNi1lM2tOVVFtVHpLMEVZOTFDZmhEZm0wajYta2JN?oc=5",
+    "collected_at": "2026-09-13T21:07:45.341529+00:00",
+    "search_keyword": "camera tracking"
+  },
+  {
+    "title": "Your Grocery Store Is Tracking Your License Plate and Sharing It With The Police: Local Retailers Use Flock Cameras - gadgetreview.com",
+    "date": "Sun, 12 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "gadgetreview.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjNXTjR5VndGTEptVmVic3N0R1Z0dEFHRnh4M0FPUjhuSE5xVFIwTGJRSWlSOEFTRTRyUE85RHVsMlo4NmJXeUxINGNHa1pXSmNkVUw0R2wxRDl4aEVUQTNhZlJZSF9Kck9ydlhma0NvWXlzcXpBVHFEcUZOQnpERmhvWUhrNDJNZm5HcUhkTXRVQ0tuWm1wOW5oZjZqeHVUTTR4Nkk5U1dTdld4R3ZrT0hOdEJzUDl1Qk1aMUFZWmxMZ0llRDBNai1zOTBMUEFudVltWko1U3BLUVU?oc=5",
+    "collected_at": "2026-09-13T21:07:45.341598+00:00",
+    "search_keyword": "camera tracking"
+  },
+  {
+    "title": "New 3D Camera Could Transform Particle Detection - Electropages",
+    "date": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Electropages",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGdMMm9vTFk0SS1iejZ6ZVUwTXZrZHpJYjNEbXJsTkVOVjFTSXF1Y042Q3NGQWlzZmZmUk9jWFZfS085VGdRUDFCaVgyekRvOEJ3MTVRRndfY3ZUMXpMOWNCa0tRRm14TU5vOXNWUEl5TEMta0x0NFVWYTlWZjU1LUdhcGxfX0Y0OUZ6bmtadW5ndXIyYUxOd2UwYXZ1Zw?oc=5",
+    "collected_at": "2026-09-13T21:07:45.341631+00:00",
+    "search_keyword": "camera tracking"
+  },
+  {
+    "title": "Gallery of Revit Visualization Plugin - D5 Lite - 4 - archdaily.com",
+    "date": "Tue, 01 Sep 2026 05:03:54 GMT",
+    "country": "Worldwide",
+    "source": "archdaily.com",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR2RSdDFLWDN4MTl4RV9ZY0lfWjlLN1FJWHRqaERJX3U0VGZ5cTk3akhNMVlKWi0wancydzMwYV96SjRGZHZ2YVdGcDY1OThCSjBES2pLb2ZnR2tGZ2NhQUNkRWN6R243VTdoUHdqSVZCS05aWFBHREp6M1RwWnhDT1Izb1pPTi1WUjhmcmVLVHlJTGUtQjV1MG92YWNsalJydHRLSjdKbFFhdnFMN014aVlyY3BtR0wtWlN2Y05GZFplcDJnNmRIYmxDajNOWGRaOGd1eThhQ0VPMGlXVGYwdTN5b0lrZXMySUgyTVJ2SQ?oc=5",
+    "collected_at": "2026-09-13T21:07:45.920588+00:00",
+    "search_keyword": "real-time rendering"
+  },
+  {
+    "title": "Gallery of Real-time Rendering - 3ds Max Converter - 6 - archdaily.com",
+    "date": "Fri, 17 Jul 2026 05:00:39 GMT",
+    "country": "Worldwide",
+    "source": "archdaily.com",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmhUZ0tWZ0w0NExFNFowZHpHb2FZYlh6c2FKckl4UGtUNFFwNGNfQUF6UHhqenRQNFpPby1femtCYXVpNlZVSFpkQWJscWJjUG5rWXllRHhWRXNONm5OWlBYc1pQckN0U2lwak1QaEZtYVk2YWQ1aUdCSUpYVHMydjNHRHE3SHBTQ3dnVnhQSThoX0xGOE5LMzRZZFdCZlZRT2xHQmRmRzFXdGtoWlE?oc=5",
+    "collected_at": "2026-09-13T21:07:45.920646+00:00",
+    "search_keyword": "real-time rendering"
+  },
+  {
+    "title": "Split Radiance Cascades: Real-Time Global Illumination via Sparse Radiance Probes - GameDev.net",
+    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "GameDev.net",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0tlRFY4UTY5eE56T1FJb2ZaSHVEeTgwTGJCVEF3Ry1KRERoRElGX3h0NzRRMG5xSTVDYnZmVFV3TzZLWkJraEhFbjZVN3dORS1VTG91T09Rdl9NajBrcnh5dHFELTl3YXh6X1RsUW9WN0pEOVBLcnA5QWVKdEZlZFJxaW9DRTJEaldOV3RmNi0yX2JOMk5pbFdPQldWTzB2cm5rbVZVZEZkMHVsNlFxQw?oc=5",
+    "collected_at": "2026-09-13T21:07:45.920710+00:00",
+    "search_keyword": "real-time rendering"
+  },
+  {
+    "title": "How Enscape solves the real-time rendering challenge with its simplicity - The Architect’s Newspaper",
+    "date": "Thu, 22 Jul 2021 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "The Architect’s Newspaper",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUhDM2NlQUhkR1JocXl5NGVhQlR4SU9MeHBhZC1wSFhHQUpzaDB6Z0hKRnVLemQtRDl0ZXhWOUNTSFJQd3RGdEhtZ2czNVVESG1DcmJ0Nm56V0JNZG1ZY3JicnQtLXExSjAzRWlwSHhrYmpTWnBpS1puVHY1R2lvTGktZEYxTF91eGdLOUdYam1ILTE3Ny16MFduY2ZZNEY0NnphVEhvWW9fWUk?oc=5",
+    "collected_at": "2026-09-13T21:07:45.920790+00:00",
+    "search_keyword": "real-time rendering"
+  },
+  {
+    "title": "Leading Lights: NVIDIA Researchers Showcase Groundbreaking Advancements for Real-Time Graphics - NVIDIA Blog",
+    "date": "Mon, 09 Aug 2021 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "NVIDIA Blog",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "NVIDIA"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XM1BIQm1QVVg3dUFVRXhPUWZmSFFoQnF6bjFUUnZWWnVSOVN2b25CU0VFdWplblF4dEM4ZkRQQnVIc29KTWN1TG5CeVN1aW5IUm9RZ1pZTGVoOWVuVVRfUVA3UXR1RzNBd2kwVkhmY1YxMGR5aHc?oc=5",
+    "collected_at": "2026-09-13T21:07:45.920852+00:00",
+    "search_keyword": "real-time rendering"
+  },
+  {
+    "title": "Unreal Engine 5.1: new features for filmmaking, broadcast, animation, and live events by Jose Antunes - - ProVideo Coalition",
+    "date": "Wed, 16 Nov 2022 08:00:00 GMT",
+    "country": "Worldwide",
+    "source": "ProVideo Coalition",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [
+      "Unreal Engine"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVk5Z0xZX3k5dF96Y0ZsWGkwSUVOOFdNa1ZTYVRHS2RYVjZ2SHR3VGRWS0wtOUYxYm8yekg4VFFVOGdWQjZ6M1RxTEd4dmhOdnluUFo4Xy1rM2o0VHFteTFfZ3lfU3JFNkZrTno3R1c4Ukx5M2o0LVJXQnJCZ3VySU8xQWJ6NkpTd21fdmhTbmxoUkFuOGhKLTRHSDdWSUFVbEVIUWgyQVFxcWk3MWRqWEItOTE3QWPSAbwBQVVfeXFMUE5FN2lPM3ZJYTNxLThHWHBFUC02SW9FSzNQb0d6VUVyck5XbjNEenJEcXBWdHFOVkRub3VEY2FHaHB3LWJWSW13ckFQdTZxQWQtUm1zZzF2LWhjaHRhTkU4TG12MF94anVxUEdWYW9tdUJuLXM5VlE0RHNjUm01M1FKMEpLYnNTUWFYcVlENUFwdkdBNTR3T1VxdE1PR182MDg0SzUzbU5NTXFqM1RpQTRBWGhZMC1UNlAzRmY?oc=5",
+    "collected_at": "2026-09-13T21:07:46.506767+00:00",
+    "search_keyword": "Unreal Engine virtual production"
+  },
+  {
+    "title": "Unreal Engine 5.2 Now Available - Animation World Network",
+    "date": "Thu, 11 May 2023 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "Animation World Network",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [
+      "Unreal Engine"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WkQ2M1JZdHRCQXBNMmFYSjBnUkRiWWN4LVI5ck5fenU4VExpcHgxUmRTd254cWYteUNtVjRHeVNxaUhCcUhockdTczdBNm85dHFINGN4WUZaMXA0ODdkSXdVVW03dw?oc=5",
+    "collected_at": "2026-09-13T21:07:46.506829+00:00",
+    "search_keyword": "Unreal Engine virtual production"
+  },
+  {
+    "title": "We built A Minecraft Movie's iconic worlds using Unreal Engine – and here's how - creativebloq.com",
+    "date": "Mon, 19 May 2025 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "creativebloq.com",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [
+      "Unreal Engine"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0J3eGtleHp4ZGZROGZCLUR4T2hWQ0xxeE95ZjYtTEhzZ25PMDNaVFAzSG1YcFlCc3VqalA5MDkwd1dqcHpjbzRxZlZFaWpUSkJzc2FLRlpiSjhnaXFLUmRYZ3hqQlhUV201ZlVjS2dqR0tfRk81YjJYQkx6WW5jUFh2dzVyeEU4ME8zazEzc0dITk1iTkpvYUVFRWFWSjFMbFJKN1UzYjcwUkFPMHFHM0hZQVRxaFVBZ0c1dmNQNUxxYXV5d0FzcUZ3RQ?oc=5",
+    "collected_at": "2026-09-13T21:07:46.506878+00:00",
+    "search_keyword": "Unreal Engine virtual production"
+  },
+  {
+    "title": "FlightDeck brings the power of AI to Unreal Engine by Jose Antunes - ProVideo Coalition - ProVideo Coalition",
+    "date": "Sat, 22 Jul 2023 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "ProVideo Coalition",
+    "categories": [
+      "Real-time Rendering"
+    ],
+    "technologies": [
+      "Unreal Engine"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHhLekROUG5KNUV1NGZmQlpHZnRDUGlWUnpOT3lHOG9MMVJvRUdvYzctM3hWUVpuaWJiOWpTdHJPc0w4NC1Na25jSkFOYkVPUndGc0pNV3VvS2xhWDY4dnRMM2VnTGRuWkhWeEczQlZIRjVsYWRiejZGVWhfcVVycEVkNzZpUVROV3RqaVZR0gGTAUFVX3lxTFBaVzBEZmxHNkI1Y0l3VWlwVXlUeFFSMWRiakxjYTZoX3FSTzlFbFo1eTVqMlBfYm44V0llem1jUUlaY2p1SzB6X1B2SVh5c2FCNVc3V3NUWTQxcVVHMW9nTmhHWkRyRnB0UURnVWFxUUZ1X2MwOHgxb0xfTmdjc0xIc01uUGpMVjJJRjNZNk4zdlVYVQ?oc=5",
+    "collected_at": "2026-09-13T21:07:46.506939+00:00",
+    "search_keyword": "Unreal Engine virtual production"
+  },
+  {
+    "title": "Check out award-winning iOS virtual production tool Cyclops AR - CG Channel",
+    "date": "Thu, 15 Aug 2024 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "CG Channel",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVC10UU01Y1lOWld1dVdjbUFQUmh3Y3h4Uk4zV3laZzVxbHNOYzNsS1NSN2owTTRZaHMzSmZyam5uTmpOcHo5aG53U051YVFmbXlncm92S2U0ODJkeXFnNTVNc1dEZHZKd0RSYTBTNjB5NFVhNUZsX3EycHZnbmdDU0ttY3JEUUVrRDBJZWVKaFFSdE5reWNGXzIwVDM1QQ?oc=5",
+    "collected_at": "2026-09-13T21:07:46.506977+00:00",
+    "search_keyword": "Unreal Engine virtual production"
+  },
+  {
+    "title": "Brompton Technology and AOTO power DAWA Studio’s Yongchuan Virtual Production Studio in Chongqing - British Cinematographer",
+    "date": "Thu, 19 Mar 2026 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "British Cinematographer",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [
+      "Brompton"
+    ],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREVtSHVSN0hzak1mZWdGcWs3eDZlOUgtTGFaSVFCQ2czOUNtSzh6Y1pRel9wOGk5cHFuWmhnX2lHU3JlZVlBN0hqTnFRdVdFVnQ4NUlTRHdSV2hzNGNIZTA0MHZLcXVxLUR4U1preVJvVW9fQVpqUWtzTDNRMUl2TEdkRS1hUGlWdjMtbEJuU0dpdEFybnYwbWpHc3dFWlk?oc=5",
+    "collected_at": "2026-09-13T21:07:47.051794+00:00",
+    "search_keyword": "virtual production stage"
+  },
+  {
+    "title": "Inside a State-of-the-Art Virtual Production Studio - AVNetwork",
+    "date": "Tue, 15 Apr 2025 07:00:00 GMT",
+    "country": "Worldwide",
+    "source": "AVNetwork",
+    "categories": [
+      "Virtual Production"
+    ],
+    "technologies": [],
+    "summary": "公開RSSで検出された関連情報。詳細は元記事を確認してください。",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmJwMTQwZGF6RFdlS1o1UFN0NzBING5fekpXblVkd19ydW9IOGdHYWpPb1hMeGV1bFZYeE1VTHZLbzB5NlFxNld1cDAwcmQ0TG5US3BfbFVvd1Rnd0NUOG5DbUhjcEU3eHlfLWp1NGZNZHN1UE1LeHpJNjU0TDNWXzBlZ1VPR05ob1E?oc=5",
+    "collected_at": "2026-09-13T21:07:47.051890+00:00",
+    "search_keyword": "virtual production stage"
+  },
+  {
     "title": "HOW VP RETHINKS THE WAY STORIES ARE BEING TOLD - VFX Voice -",
     "date": "Wed, 05 Apr 2023 07:00:00 GMT",
     "country": "Worldwide",
